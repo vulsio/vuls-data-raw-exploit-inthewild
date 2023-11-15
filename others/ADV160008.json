@@ -1,0 +1,11 @@
+{
+  "id": "ADV160008",
+  "references": [
+    {
+      "type": "exploitation",
+      "source": "MS",
+      "url": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV160008",
+      "time_stamp": "2016-10-27T07:00:00Z"
+    }
+  ]
+}
